@@ -1,6 +1,6 @@
 == DouSpend
 
-DouSpend - is your easy daily transaction recorder.
+DouSpend -  transaction and expenditure cycle .
 
 It comes with following features:
 
